@@ -1,5 +1,5 @@
 {
-  "serviceName": "microscopic-roundrobin-load-balancer",
+  "name": "microscopic-roundrobin-load-balancer",
   "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
